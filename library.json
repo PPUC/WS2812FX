@@ -13,8 +13,5 @@
     "type": "git",
     "url": "https://github.com/kitesurfer1404/WS2812FX.git"
   },
-  "dependencies": {
-    "adafruit/Adafruit NeoPixel": ">=1.1.7"
-  },
   "headers": "WS2812FX.h"
 }
